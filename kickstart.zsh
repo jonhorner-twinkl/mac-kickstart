@@ -18,7 +18,7 @@ brew install neovim
 ### CLI tools
 brew install ripgrep # better grep
 brew install fzf # fuzzy search
-brew install z # better cd
+brew install z # zoxide better cd https://github.com/ajeetdsouza/zoxide
 brew install eza # eza for better ls https://github.com/eza-community/eza/blob/main/man/eza.1.md
 
 brew install --cask gpg-suite # git commit signing
