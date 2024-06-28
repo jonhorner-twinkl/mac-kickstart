@@ -12,6 +12,7 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/jonhorner-twinkl/ohmyzsh/m
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 
 # Neovim
+### Neovim
 brew install neovim
 
 
@@ -20,6 +21,8 @@ brew install ripgrep # better grep
 brew install fzf # fuzzy search
 brew install zoxide # zoxide better cd https://github.com/ajeetdsouza/zoxide
 brew install eza # eza for better ls https://github.com/eza-community/eza/blob/main/man/eza.1.md
+
+brew install oh-my-posh #nice prompt templates
 
 brew install --cask gpg-suite # git commit signing
 
