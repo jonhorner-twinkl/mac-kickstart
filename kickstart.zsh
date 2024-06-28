@@ -49,6 +49,7 @@ nvm install --lts
 
 # Testing
 brew install atomicjar/tap/testcontainers-desktop
+npm install jest --global
 
 # TODO Add to ~/.zshrc (or the custom aliases file)
 alias zshconfig="open ~/.zshrc"
