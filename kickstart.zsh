@@ -39,6 +39,14 @@ brew tap hashicorp/tap
 brew install hashicorp/tap/terraform
 terraform -install-autocomplete
 
+# install NVM
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.7/install.sh | bash
+
+# install node for gulp compatibility
+nvm install v11.15.0
+# install recent node for React development
+nvm install --lts
+
 # Testing
 brew install atomicjar/tap/testcontainers-desktop
 
