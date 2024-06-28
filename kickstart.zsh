@@ -20,7 +20,8 @@ brew install neovim
 brew install ripgrep # better grep
 brew install fzf # fuzzy search
 brew install zoxide # zoxide better cd https://github.com/ajeetdsouza/zoxide
-brew install eza # eza for better ls https://github.com/eza-community/eza/blob/main/man/eza.1.md
+brew install eza # eza for better ls https://github.com/eza-comimunity/eza/blob/main/man/eza.1.md
+brew install jq # filter and process json files https://jqlang.github.io/jq/ 
 
 brew install oh-my-posh #nice prompt templates
 
