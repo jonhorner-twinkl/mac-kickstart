@@ -11,7 +11,6 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/jonhorner-twinkl/ohmyzsh/m
 ### Homebrew
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 
-# Neovim
 ### Neovim
 brew install neovim
 
@@ -37,7 +36,7 @@ brew install --cask sourcetree
 
 # Twinkl Ops
 brew install --cask rancher
-brew install git-flow-avh
+brew install gh
 brew install awscli
 brew tap hashicorp/tap
 brew install hashicorp/tap/terraform
